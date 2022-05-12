@@ -1,1 +1,3 @@
 # EstruturadeRepeticao
+
+Questões para revisar.
